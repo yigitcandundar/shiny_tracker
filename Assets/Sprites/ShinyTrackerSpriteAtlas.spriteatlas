@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ShinyTrackerSpriteAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3a357da0d01a80443b4e28b0b3f6e435, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 38d4782843a0df74a89b3f801afe43f7, type: 3}
+  - {fileID: 21300000, guid: 781165f53637a3948b2fc57cfe5df070, type: 3}
+  - {fileID: 21300000, guid: 0ea601ff107f49d4cbdc1dce5fee31c8, type: 3}
+  - {fileID: 21300000, guid: 4f0a1cf1580ee914cb712438b88bcf7c, type: 3}
+  - {fileID: 21300000, guid: d8eb07308316d9a4b88bb31400386c45, type: 3}
+  - {fileID: 21300000, guid: b9217c24331e6c346a2b174ea04e384f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Icon_ShinyCharm
+  - rounded_square
+  - backbutton
+  - circle
+  - edit
+  - viewport
+  m_Tag: ShinyTrackerSpriteAtlas
+  m_IsVariant: 0
